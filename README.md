@@ -1,6 +1,4 @@
-# Power-BI-Project
-
-Project Summary: Maven Toys Sales & Inventory Data Analysis
+# Power-BI-Project Summary: Maven Toys Sales & Inventory Data Analysis
 
 I'm excited to present my work on the Maven Toys Sales & Inventory Data Analysis project. In this endeavor, I delved into a comprehensive dataset from Maven Toys, a fictional toy store chain based in Mexico. The dataset provided an excellent opportunity to showcase my data exploration, analysis, and visualization skills.
 
@@ -31,4 +29,4 @@ As a participant in the Maven Toys Challenge, I demonstrated my analytical prowe
 
 Thank you for considering my contribution to the Maven Toys Sales & Inventory Data Analysis project. I look forward to any feedback and opportunities for further collaboration.
 
-Note: The Power BI Dashboard Dataset can be found here: https://www.mavenanalytics.io/data-playground and Challenge full details are:https://www.mavenanalytics.io/blog/maven-toys-challenge?utm_source=linkedin&utm_campaign=MavenToysChallenge_li_maven
+Note: The Power BI Dashboard Dataset can be found here: https://www.mavenanalytics.io/data-playground and challenge full details found herer: https://www.mavenanalytics.io/blog/maven-toys-challenge?utm_source=linkedin&utm_campaign=MavenToysChallenge_li_maven
