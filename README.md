@@ -20,11 +20,12 @@ In the role of a BI consultant hired by Maven Toys, I embarked on the Maven Toys
 I meticulously examined the data, employing various data visualization tools and techniques. The resulting dashboard presents an insightful view of the business landscape, shedding light on sales patterns, popular products, and potential store expansion opportunities. My analysis empowered Maven Toys with data-driven insights to make informed decisions for their growth strategy.
 
 **Project Snapshot**:
+
 ![1621937418804](https://github.com/Shubham-33/Power-BI/assets/84770302/5233ca6b-1fa1-4e37-9f55-e49c973466ae)
 
 
 **Participation & Recognition:**
-As a participant in the Maven Toys Challenge, I demonstrated my analytical prowess and business acumen. My entry showcases my ability to transform raw data into actionable insights. I invite you to view my LinkedIn post to see the full visualization and share your thoughts. Don't hesitate to connect and engage in this exciting exploration of Maven Toys' data.
+As a participant in the Maven Toys Challenge, I demonstrated my analytical prowess and business acumen. My entry showcases my ability to transform raw data into actionable insights. 
 
 Thank you for considering my contribution to the Maven Toys Sales & Inventory Data Analysis project. I look forward to any feedback and opportunities for further collaboration.
 
